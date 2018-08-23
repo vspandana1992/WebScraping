@@ -1,7 +1,7 @@
 # WebScraping
 **Web scraping using Python**
 
-This repository is for web scraping (under creative commerce license). <br/>
+This repository is for web scraping (under [creative commerce license](https://en.wikipedia.org/wiki/Creative_Commons_license)). <br/>
 Currently, it has scrapers for the following websites:
 - [x] unsplash
 - [ ] stocksnap
