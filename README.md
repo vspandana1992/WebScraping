@@ -13,5 +13,5 @@ Currently, it has scrapers for the following websites:
 **Usage:**<br/>
 <br/>
 git clone https://github.com/vspandana1992/WebScraping.git <br/>
-cd WebScraping <br/>
+cd WebScraping/WebScraping <br/>
 python scrape.py -w unsplash -q mushrooms -o ./Data <br/>
